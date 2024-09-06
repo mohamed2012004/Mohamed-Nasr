@@ -8,30 +8,19 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=learning%20Frontend%20web%20development;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science %20Data%20Analysis;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 
 
 - 🏢 **Tanta University - Faculty of Engineering**
 - 👨‍💻 **Aspiring Data Analysis and Data Science**, 
-- 💬 **Ask me about**:
-  - 🌟 **Current Project**: Pursuing a diploma in frontend development with a goal to specialize in React.
-- 🎯 **Career Goals**:
-  - **Short-term**: Complete the frontend development diploma from Almdrasa.
-  - **Long-term**: Explore advanced fields like **AI and ML** and eventually build my own business.
-- 📚 **Hobby**: I love reading books.
-- 🍵 **Fun Fact**: I love tea.
-- 🌟 **Unique Experience**: Earned a scholarship from the University of Science and Technology at Zewail City after finishing secondary school but decided to pursue my current path.
 
----
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-nasr-mohamed" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/ahmed_Mahmoud_Abdulghaffar" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Abdul_Ghaffar-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
+<a href="https://www.linkedin.com/in/mohamed-nasr-mohamed" target="_blank"><img src="https://img.shields.io/badge/-Mohamed %20Nasr-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
