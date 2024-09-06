@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamed-nasr-mohamed" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Nasr%20Ashraf-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohamed-nasr-mohamed" target="_blank"><img src="https://img.shields.io/badge/-Mohamed Nasr%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
@@ -38,19 +38,14 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook%20-05122A?style=flat&logo=jupyter)
 
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning%20-05122A?style=flat&logo=python)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning%20-05122A?style=flat&logo=tensorflow)
 ![Power BI](https://img.shields.io/badge/-Power%20BI%20-05122A?style=flat&logo=powerbi)
 ![Pandas](https://img.shields.io/badge/-Pandas%20-05122A?style=flat&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy%20-05122A?style=flat&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib%20-05122A?style=flat&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/-Seaborn%20-05122A?style=flat&logo=seaborn)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow%20-05122A?style=flat&logo=tensorflow)
 
 
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ABDELHALIM9&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<a href="https://komarev.com/ghpvc/?username=ABDELHALIM9&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ABDELHALIM9&style=for-the-badge">
-</a>
